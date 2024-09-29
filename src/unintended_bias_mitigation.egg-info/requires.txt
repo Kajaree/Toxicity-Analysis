@@ -1,0 +1,11 @@
+torch
+torchvision
+flair
+h5py
+torchtext
+tqdm
+nltk>=3.4.5
+flair
+datastack
+mlgym
+outlier-hub
